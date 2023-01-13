@@ -1,3 +1,2 @@
-test
-Harry Potter
-Griffindors
+포켓몬
+미니언즈
